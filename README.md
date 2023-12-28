@@ -21,10 +21,10 @@ example💕:
 
 you can search one person's all the notes by input their url and their notes number
 
-url:
+url:<img src="./example2.png" alt="example2" style="zoom:50%;" />
 
-<img src="D:\2024\money\python_crawl\xiaohongshu_12_17\crawl_for_xhs\example2" alt="image-20231227202647105" style="zoom:50%;" />
+
 
 notes_number:
 
-![image-20231227202732959](D:\2024\money\python_crawl\xiaohongshu_12_17\crawl_for_xhs\example3)
+<img src="./example3.png" alt="example3" style="zoom:50%;" />
